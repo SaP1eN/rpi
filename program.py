@@ -50,7 +50,7 @@ time.sleep(5)
 
 def stop():
 
-    print "stop"
+    print ("stop")
 
     GPIO.output(m11, 0)
 
